@@ -1,0 +1,20 @@
+{
+  "keywords": [
+    "web",
+    "component"
+  ],
+  "template": {
+    "inheritFrom": [
+      "arlac77/template-root",
+      "arlac77/template-rollup",
+      "arlac77/template-documentation",
+      "arlac77/template-semantic-release"
+    ],
+    "properties": {
+      "node_version": "14.1.0"
+    },
+    "usedBy": [
+      "arlac77/template-svelte-component"
+    ]
+  }
+}
