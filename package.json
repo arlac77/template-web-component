@@ -3,6 +3,9 @@
     "web",
     "component"
   ],
+  "engines" : {
+   "node" : "--delete--"
+  },
   "template": {
     "inheritFrom": [
       "arlac77/template-root",
