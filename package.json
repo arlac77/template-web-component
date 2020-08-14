@@ -7,7 +7,6 @@
     "inheritFrom": [
       "arlac77/template-root",
       "arlac77/template-rollup",
-      "arlac77/template-documentation",
       "arlac77/template-semantic-release"
     ],
     "properties": {
