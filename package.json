@@ -13,7 +13,8 @@
       "node_version": "14.9.0"
     },
     "usedBy": [
-      "arlac77/template-svelte-component"
+      "arlac77/template-svelte-component",
+      "arlac77/svelte-websocket-store"
     ]
   }
 }
