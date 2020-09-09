@@ -10,7 +10,7 @@
       "arlac77/template-semantic-release"
     ],
     "properties": {
-      "node_version": "14.9.0"
+      "node_version": "14.10.0"
     },
     "usedBy": [
       "arlac77/template-svelte-component",
